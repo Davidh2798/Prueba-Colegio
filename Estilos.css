@@ -1,0 +1,70 @@
+h1 {
+            
+
+    
+    font-family:"Harrington", sans-serif;     
+      }  
+     p {
+    font-family:"Hervetica", sans-serif;
+    
+  }
+
+       
+    #Videojuegos-list { 
+      
+    font-family:"Hervetica", sans-serif;
+    }
+    
+            head, h1, ol, h2, nav, ul {
+              display: block;
+
+            }
+            body{
+              text-align: center;
+
+            }
+            .hola{
+              width: 690;
+              margin-bottom: 20px;
+             margin-left: 100px;
+             margin-right: 100px;
+             margin-top: 20px;
+            }
+            h1{
+              background-color: rgb(131, 68, 131);
+              border: solid black;
+              padding: 20px;
+            }
+
+            .menu{
+              
+              border: solid black;
+            }
+            #Videojuegos-list{
+              list-style: none;
+              border: solid black;
+            }
+            .menu li{
+              list-style: none;
+              padding: 10px;
+              padding-inline-start: 10px;
+              font: bold 14px verdana;
+              display: inline-block;
+              border-right: solid black ;
+              background-color: rgb(92, 173, 194);
+            }
+            .Hoda{
+              list-style: none;
+              border: solid black;
+              background-color: rgb(58, 110, 223);
+              
+            }
+
+           body{
+             background: url(../Html/Fondo.png)
+             
+          }
+                  
+                  
+                  
+                 
